@@ -3,7 +3,6 @@ import { useState } from 'react';
 function App() {
   return (
     <div className="App">
-      <h2>hello, this is ololade</h2>
       <Counter></Counter>
     </div>
   );
